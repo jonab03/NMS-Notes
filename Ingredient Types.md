@@ -33,6 +33,7 @@ The suggested order of preference is:
 	[Domestic] > [Animal] > [Misc] > [Wild] > [Animal Remains] > [Horrifying] 
 
 The reasoning behind this ordering follows
+
 -	[Domestic] Can be easily farmed in hydroponics or bio-domes which makes them easy to farm in bulk.
 -	[Animal] Can also be farmed at a base but requires making bait first and needs to be done outdoors and at specific locations.
 	These aren't as easy to farm as [Domestic] products but can still be easily done at predictable areas.
@@ -54,26 +55,38 @@ It also only considers the most obvious methods for getting the resource and as 
 
 ## Non generic exclusives with dependents
 > Keep 1-2 stacks in storage
+
 [Wild]
+
 Fireberry=Fire Water, Ever-burning Jam
+
 Impulse Beans=Bittersweet Cocoa
+
 Grahberry=Grahj'am
+
 Hexaberry=Anomalous Jam
+
 Pulpy Root= Root Juice
 
 ## Non generic exclusives without dependents
 > Don't store
 
 [Wild]
+
 Aloe Flesh=Refreshing Drink
+
 Pilgrimberry=Pilgrim's Tonic
 
 ## Exclusive end variants
 > Don't store
+
 [Wild]
+
 Sweetroot=Mushed Root Pie
 
 ## Low source quantity intermediate precursor
 > Keep 1-2 stacks of the chosen precursor
+
 [Wild]
+
 Pulpy Root=Crunchy Caramel
