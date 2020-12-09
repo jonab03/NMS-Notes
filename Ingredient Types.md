@@ -68,6 +68,7 @@ I do not provide any recipes here. I suggest looking them up at [NMS Depot](http
 	[Animal]
 	Warm Proto-Milk=Proto-Cream, Proto-Butter, ProtoCheese
 	Sticky 'Honey'=Synthetic Honey, Honey Butter, Honied Proto-Butter
+	Crab 'Apple'=Wriggling Jam
 	
 ## Low value non generic exclusives without dependents
 > Don't store
