@@ -11,7 +11,8 @@ and doesn't fall under the normal resource limit (9999 for normal and 250 base f
 
 Look up the raw ingredient and store according to the largest specified quantity for that ingredient.
 
-Words within [Brackets] specify the type of source that the ingredient has. 
+Words within [Brackets] specify the type of source that the ingredient has. If there are multiple types in a single pair of brackets [Type1, Type2]
+it is a combined intermediate with source ingredients from all of the specified categories 
 
 The source types are:
 
@@ -66,7 +67,8 @@ I do not provide any recipes here. I suggest looking them up at [NMS Depot](http
 	Pulpy Root=Root Juice
 	[Animal]
 	Warm Proto-Milk=Proto-Cream, Proto-Butter, ProtoCheese
-
+	Sticky 'Honey'=Synthetic Honey, Honey Butter, Honied Proto-Butter
+	
 ## Low value non generic exclusives without dependents
 > Don't store
 
@@ -82,6 +84,8 @@ I do not provide any recipes here. I suggest looking them up at [NMS Depot](http
 	Sweetroot=Mushed Root Pie
 	[Domestic]
 	Non-Toxic Mushroom=Fungal Tart
+	[Animal]
+	Synthetic Honey=Honey Doughnut, Glittering Honey Cake, Honied Proto-Cake, Honey-Soaked Fancy, Monstrous Honey Cake, Honied Angel Cake, Tortured Honey Cake
 
 
 
@@ -90,4 +94,3 @@ I do not provide any recipes here. I suggest looking them up at [NMS Depot](http
 
 	[Wild]
 	Pulpy Root=Crunchy Caramel # Requires 2 processing steps
-
