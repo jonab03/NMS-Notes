@@ -53,40 +53,41 @@ This preference order is meant as an initial start for making your own.
 For example it only considers difficulty of acquisition and not the price of resulting goods.
 It also only considers the most obvious methods for getting the resource and as such may be inaccurate depending on what method you use for getting the ingredient.
 
+I do not provide any recipes here. I suggest looking them up at [NMS Depot](https://www.nmsdepot.com)
+
 ## Non generic exclusives with dependents
 > Keep 1-2 stacks in storage
 
-[Wild]
+	[Wild]
+	Fireberry=Fire Water, Ever-burning Jam
+	Impulse Beans=Bittersweet Cocoa
+	Grahberry=Grahj'am
+	Hexaberry=Anomalous Jam
+	Pulpy Root=Root Juice
+	[Animal]
+	Warm Proto-Milk=Proto-Cream, Proto-Butter, ProtoCheese
 
-Fireberry=Fire Water, Ever-burning Jam
-
-Impulse Beans=Bittersweet Cocoa
-
-Grahberry=Grahj'am
-
-Hexaberry=Anomalous Jam
-
-Pulpy Root= Root Juice
-
-## Non generic exclusives without dependents
+## Low value non generic exclusives without dependents
 > Don't store
 
-[Wild]
-
-Aloe Flesh=Refreshing Drink
-
-Pilgrimberry=Pilgrim's Tonic
+	[Wild]
+	Aloe Flesh=Refreshing Drink
+	[Domestic]
+	Pilgrimberry=Pilgrim's Tonic
 
 ## Exclusive end variants
 > Don't store
 
-[Wild]
+	[Wild]
+	Sweetroot=Mushed Root Pie
+	[Domestic]
+	Non-Toxic Mushroom=Fungal Tart
 
-Sweetroot=Mushed Root Pie
+
 
 ## Low source quantity intermediate precursor
 > Keep 1-2 stacks of the chosen precursor
 
-[Wild]
+	[Wild]
+	Pulpy Root=Crunchy Caramel # Requires 2 processing steps
 
-Pulpy Root=Crunchy Caramel
