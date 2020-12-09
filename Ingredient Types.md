@@ -85,7 +85,8 @@ I do not provide any recipes here. I suggest looking them up at [NMS Depot](http
 	[Domestic]
 	Non-Toxic Mushroom=Fungal Tart
 	[Animal]
-	Synthetic Honey=Honey Doughnut, Glittering Honey Cake, Honied Proto-Cake, Honey-Soaked Fancy, Monstrous Honey Cake, Honied Angel Cake, Tortured Honey Cake
+	Synthetic Honey=Honey Doughnut, Glittering Honey Cake, Honied Proto-Cake, Honey-Soaked Fancy, 
+	Monstrous Honey Cake, Honied Angel Cake, Tortured Honey Cake
 
 
 
