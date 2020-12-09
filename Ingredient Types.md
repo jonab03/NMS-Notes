@@ -1,4 +1,4 @@
-#How to use
+# How to use
 
 The words "Ingredient" and "Product" are used interchangeably to refer to any item that can be used for cooking 
 and doesn't fall under the normal resource limit (9999 for normal and 250 base for survival/permadeath)
@@ -52,7 +52,7 @@ This preference order is meant as an initial start for making your own.
 For example it only considers difficulty of acquisition and not the price of resulting goods.
 It also only considers the most obvious methods for getting the resource and as such may be inaccurate depending on what method you use for getting the ingredient.
 
-##Non generic exclusives with dependents
+## Non generic exclusives with dependents
 > Keep 1-2 stacks in storage
 [Wild]
 Fireberry=Fire Water, Ever-burning Jam
@@ -61,19 +61,19 @@ Grahberry=Grahj'am
 Hexaberry=Anomalous Jam
 Pulpy Root= Root Juice
 
-##Non generic exclusives without dependents
+## Non generic exclusives without dependents
 > Don't store
 
 [Wild]
 Aloe Flesh=Refreshing Drink
 Pilgrimberry=Pilgrim's Tonic
 
-##Exclusive end variants
+## Exclusive end variants
 > Don't store
 [Wild]
 Sweetroot=Mushed Root Pie
 
-##Low source quantity intermediate precursor
+## Low source quantity intermediate precursor
 > Keep 1-2 stacks of the chosen precursor
 [Wild]
 Pulpy Root=Crunchy Caramel
