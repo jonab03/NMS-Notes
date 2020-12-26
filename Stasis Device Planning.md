@@ -57,7 +57,7 @@ Warning: These were ripped from the game files but they (The game files.) can be
 
 ## First Steps
 > Frost Crystal: 200                      > Glass x5
-
+>
 > Faecium: 50,Gamma Root: 400             > Lubricant
 >
 > Frost Crystal: 100, Solanium: 200       > Heat Capacitor
