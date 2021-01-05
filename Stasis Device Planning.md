@@ -1,9 +1,12 @@
 # General Info
 
-50x Purchasable at a time is expected so plan for 25x the specified amount of farming. (Good luck!)
+~~50x Purchasable at a time is expected so plan for 25x the specified amount of farming. (Good luck!)~~
 
-The purchasable resources are not found at every station / trader 
-so you will need to find them across several different systems.
+~~The purchasable resources are not found at every station / trader 
+so you will need to find them across several different systems.~~
+
+**Some parts of this document still apply but anything referencing purchasing gas products is incorrect as I forgot to actually check if they can be purchased.
+It may be updated to account for this but for now I would suggest relying on somewhere else for info.**
 
 ## Material Per Plant: 
 > cactus = 100
